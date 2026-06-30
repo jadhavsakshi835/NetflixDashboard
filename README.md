@@ -37,7 +37,8 @@ The dataset contains information about Netflix titles, including:
 The aim of this project is to practice data visualization and create an interactive dashboard that helps users understand Netflix content using Power BI.
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+<img width="1332" height="756" alt="image" src="https://github.com/user-attachments/assets/34b1758a-a5f0-4ec2-a1b9-961e9fb4dedd" />
+
 
 ## Author
 **Sakshi Jadhav**
